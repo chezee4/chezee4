@@ -6,7 +6,7 @@ I'm interested in learning new technologies and striving to grow as a developer.
 I'm open to collaboration and sharing experiences!
 
 <p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
+ <img width="600" src="img/github-snake.svg" alt="snake"/>
 </p>
 
 
