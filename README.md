@@ -20,6 +20,9 @@ I'm open to collaboration and sharing experiences!
    <img align="left" src="https://github.com/chezee4/chezee4/blob/main/img/gulp.png" title="Gulp.js" alt="Gulp.js" width="14px" style="margin-left: 30px;">&nbsp;
    <img align="left" src="https://github.com/chezee4/chezee4/blob/main/img/git.png" title="Git" alt="Git" width="32px" style="margin-left: 30px;">&nbsp;
    <img align="left" src="https://github.com/chezee4/chezee4/blob/main/img/react.png" title="React" alt="React" width="32px" style="margin-left: 30px;">&nbsp;
+  <img align="left" src="https://github.com/chezee4/chezee4/blob/main/img/redux.png" title="Redux" alt="Redux" width="32px" style="margin-left: 30px;">&nbsp;
+ <img align="left" src="https://github.com/chezee4/chezee4/blob/main/img/zustand.png" title="Zustand" alt="Zustand" width="54px" style="margin-left:30px;padding-right: 10px"> &nbsp;
+ <img align="left" src="https://github.com/chezee4/chezee4/blob/main/img/next-js.svg" title="NextJS" alt="Next-js" width="32px" style="margin-left: 30px;">&nbsp;
    <img align="left" src="https://github.com/chezee4/chezee4/blob/main/img/tailwind.png" title="Tailwind CSS" alt="Tailwind CSS" width="32px" style="margin-left: 30px;">&nbsp;
   <img align="left" src="https://github.com/chezee4/chezee4/blob/main/img/framer-motion.svg" title="Framer-motion" alt="Framer-motion" width="28px" style="margin-left: 30px;">&nbsp;
    <img align="left" src="https://github.com/chezee4/chezee4/blob/main/img/TS.png" title="TS" alt="TS" width="32px" style="margin-left: 30px;"> &nbsp;
