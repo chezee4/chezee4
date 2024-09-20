@@ -1,9 +1,10 @@
  
 
 ## :man_technologist: Hi there!
-I'm a newcomer to the world of development.  
-I'm interested in learning new technologies and striving to grow as a developer.  
+I'm a front-end developer with React knowledge,constantly striving to develop and improve my skills. 
+I have experience working on various projects where I demonstrated high productivity and creative approac to problem solving.
 On my profile, you'll find my projects and experiments with code.    
+
 I'm open to collaboration and sharing experiences!     
 
 <p align="center">
